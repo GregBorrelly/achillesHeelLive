@@ -12,6 +12,20 @@
                     "value": "br"
                 }
             ]
+        },
+        {
+            "source": "/Build/(.*)",
+            "headers": [
+                {
+                    "key": "x-authorized",
+                    "value": "true"
+                },
+                {
+                    "key": "Accept-Encoding",
+                    "value": "br"
+                }
+            ]
         }
+
     ]
 }
