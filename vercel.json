@@ -13,7 +13,7 @@
             "source": "/(.*)",
             "headers": [
                 {
-                    "key": "X-Content-Encoding",
+                    "key": "Content-Encoding",
                     "value": "br"
                 },
                 {
@@ -44,7 +44,7 @@
                     "value": "true"
                 },
                 {
-                    "key": "X-Content-Encoding",
+                    "key": "Content-Encoding",
                     "value": "br"
                 }
             ]
