@@ -10,6 +10,10 @@
                 {
                     "key": "Accept-Encoding",
                     "value": "br"
+                },
+                {
+                    "key": "Content-Encoding",
+                    "value": "br"
                 }
             ]
         },
@@ -22,6 +26,10 @@
                 },
                 {
                     "key": "Accept-Encoding",
+                    "value": "br"
+                },
+                {
+                    "key": "Content-Encoding",
                     "value": "br"
                 }
             ]
